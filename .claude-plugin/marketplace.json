@@ -1,0 +1,19 @@
+{
+  "name": "mirror",
+  "owner": {
+    "name": "Avyansh Katiyar"
+  },
+  "plugins": [
+    {
+      "name": "mirror",
+      "source": ".",
+      "description": "Deep astrological reading as self-confrontation — uses natal charts and transits as a psychological mirror, not a textbook.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Avyansh Katiyar"
+      },
+      "license": "MIT",
+      "keywords": ["astrology", "psychology", "natal-chart", "transits", "self-reflection", "personal-growth"]
+    }
+  ]
+}
